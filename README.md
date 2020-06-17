@@ -1,6 +1,6 @@
 # Prakarsh's Space Game
 ## For google
-## https://prakarshjhajharia.github.io/v6/
+## https://github.com/PrakarshJhajharia/Prakarsh-s-Space-Game
 ## For Play store
 ## https://play.google.com/store/apps/details?id=com.gmail.prakarshjhajharia.prakarshgameofspace
 ## For documentation
